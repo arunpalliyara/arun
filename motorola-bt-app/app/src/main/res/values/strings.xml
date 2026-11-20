@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MotorolaLink</string>
+    <string name="app_title">Motorola Bluetooth Link</string>
+    <string name="status_ready">Ready</string>
+    <string name="status_permissions_needed">Bluetooth permissions needed</string>
+    <string name="status_bt_disabled">Bluetooth is off — tap Scan to enable</string>
+    <string name="btn_scan">Scan</string>
+    <string name="btn_voice_open">Open voice channel</string>
+    <string name="btn_voice_close">Close voice channel</string>
+    <string name="label_devices">Nearby / paired devices</string>
+    <string name="route_waiting">Audio routing: waiting</string>
+    <string name="route_voice_active">Audio routing: Bluetooth voice channel (SCO)</string>
+    <string name="route_connected_prefix">Device connected</string>
+    <string name="route_disconnected">Disconnected</string>
+    <string name="toast_mic_required">Microphone permission is required for the voice channel</string>
+    <string name="label_unknown">Unknown device</string>
+</resources>
